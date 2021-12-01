@@ -1,0 +1,29 @@
+@media screen and (max-width: 545px) {
+    h1 {
+        font-size: 40px;
+    }
+    #count {
+        width: 300px;
+    }
+    .times {
+        font-size: 25px;
+    }
+    .times span {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    h1 {
+        font-size: 30px;
+    }
+    #count {
+        width: 200px;
+    }
+    .times {
+        font-size: 20px;
+    }
+    .times span {
+        font-size: 12px;
+    }
+}
